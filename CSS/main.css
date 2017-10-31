@@ -1,0 +1,17 @@
+.bar {
+
+	text-align: left;
+	font-family: "Times New Roman";
+	font-style: italic;
+	background-color: black;
+
+
+}
+
+.bar-item {
+
+	color: white;
+	font-size: 18px;
+	word-spacing: double;
+
+}
